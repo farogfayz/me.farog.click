@@ -1,6 +1,6 @@
 baseURL: "https://arkalim.netlify.app"
 languageCode: en-us
-title: Abdur Rahman
+title: Farog Basher
 theme: PaperMod
 
 menu:
@@ -48,8 +48,8 @@ params:
   # Home Page
   profileMode:
     enabled: true
-    title: "Abdur Rahman"
-    subtitle: Hi 👋 I'm Abdur, a tech enthusiast who loves solving complex problems. As a Software Developer in the Backend Infrastructure team at [**Clio**](https://www.clio.com), I'm building robust systems to transform the legal experience for all. By evening, you can find me pushing the limits of my strength at the gym or whipping up my favorite recipe in the kitchen. Let's connect and create something awesome together!
+    title: "Farog Basher"
+    subtitle: Hi 👋 I'm Farog, As a passionate Network and Systems Administrator, I thrive at the intersection of technology and problem-solving. Over the years of hands-on experience, I specialize in designing, implementing, and managing robust IT infrastructures using tools in network and operating systems security and reliability..
 
  
     imageUrl: "home/casual-small-square.jpeg"
