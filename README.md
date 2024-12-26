@@ -154,4 +154,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-Thank you for visiting! 🌟 Happy coding! 👨‍💻👩‍💻
+Thank you for visiting!
