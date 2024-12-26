@@ -8,11 +8,11 @@ menu:
   main:
     - identifier: home
       name: Home
-      url: /
+      url: https://me.farog.click/
       weight: 10
     - identifier: projects
       name: Projects
-      url: /projects
+      url: https://me.farog.click/projects
       weight: 30
     - identifier: experience
       name: Experience
@@ -20,7 +20,7 @@ menu:
       weight: 40
     - identifier: search
       name: Search
-      url: /search
+      url: https://me.farog.click/search
       weight: 50
     - identifier: CV
       name: CV
