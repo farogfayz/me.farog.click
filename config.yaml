@@ -16,7 +16,7 @@ menu:
       weight: 30
     - identifier: experience
       name: Experience
-      url: /experience
+      url: https://me.farog.click/experience
       weight: 40
     - identifier: search
       name: Search
