@@ -1,4 +1,5 @@
-baseURL: "https://arkalim.netlify.app"
+# this is main Portfolio infp
+baseURL: "https://me.farog.click"
 languageCode: en-us
 title: Farog Basher
 theme: PaperMod
@@ -9,10 +10,6 @@ menu:
       name: Home
       url: /
       weight: 10
-    - identifier: blog
-      name: Blog
-      url: /blog
-      weight: 20
     - identifier: projects
       name: Projects
       url: /projects
@@ -25,14 +22,10 @@ menu:
       name: Search
       url: /search
       weight: 50
-    # - identifier: tags
-    #   name: Tags
-    #   url: /tags
-    #   weight: 60
-    # - identifier: notes
-    #   name: Notes
-    #   url: https://notes.arkalim.org
-    #   weight: 70
+    - identifier: CV
+      name: CV
+      url: "https://drive.google.com/file/d/1_A7YPUN8aEAt2Jt7uGlVodCb2cv1MKx_/view?usp=sharing"
+      weight: 60
 
 params:
   # theme
@@ -52,7 +45,7 @@ params:
     subtitle: Hi 👋 I'm Farog, As a passionate Network and Systems Administrator, I thrive at the intersection of technology and problem-solving. Over the years of hands-on experience, I specialize in designing, implementing, and managing robust IT infrastructures using tools in network and operating systems security and reliability..
 
  
-    imageUrl: "home/casual-small-square.jpeg"
+    imageUrl: "home/me.jpg"
     imageWidth: 220
     imageHeight: 220
     # buttons:
@@ -67,15 +60,15 @@ params:
     hiddenInList: false # hide on list pages and home
     hiddenInSingle: false # hide on single page
 
+  # icons for social media
   socialIcons:
     - name: "email"
-      url: "mailto:abdur.rahman.kalim@gmail.com"
+      url: "mailto:faroog1995@hotmail.com"
     - name: "linkedin"
-      url: "https://www.linkedin.com/in/abdurrahmankalim"
+      url: "https://www.linkedin.com/in/farogbasher"
     - name: "github"
-      url: "https://github.com/arkalim"
-    - name: "youtube"
-      url: "https://www.youtube.com/c/AbdurRahmanKalim"
+      url: "https://github.com/farogfayz"
+
 
   # text search
   fuseOpts:
