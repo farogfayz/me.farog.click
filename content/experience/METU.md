@@ -5,7 +5,7 @@ dateString: Jan 2023 - Ongoing
 draft: false
 tags: ["Networking", "Linux", "Ansible", "Aruba", "Cisco", "Vspher", "Fortigate", "AWS", "Bash", "Windows-Server", "Html", "Drupal"]
 showToc: false
-weight: 302
+weight: 301
 --- 
 
 ### Description

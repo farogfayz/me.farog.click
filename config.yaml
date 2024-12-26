@@ -28,6 +28,7 @@ menu:
       weight: 60
 
 params:
+  
   # theme
   showToc: true
   TocOpen: false
@@ -42,10 +43,10 @@ params:
   profileMode:
     enabled: true
     title: "Farog Basher"
-    subtitle: Hi 👋 I'm Farog, As a passionate Network and Systems Administrator, I thrive at the intersection of technology and problem-solving. Over the years of hands-on experience, I specialize in designing, implementing, and managing robust IT infrastructures using tools in network and operating systems security and reliability..
+    subtitle: Hi 👋 I'm Farog, As a passionate Network and Systems Administrator, I thrive at the intersection of technology and problem-solving. Over the years of hands-on experience, I specialize in designing, implementing, and managing robust IT infrastructures using tools in network and operating systems security and reliability.
 
  
-    imageUrl: "home/me.jpg"
+    imageUrl: "https://me.farog.click/home/me.jpg"
     imageWidth: 220
     imageHeight: 220
     # buttons:
@@ -60,7 +61,7 @@ params:
     hiddenInList: false # hide on list pages and home
     hiddenInSingle: false # hide on single page
 
-  # icons for social media
+  # icons and links for social media
   socialIcons:
     - name: "email"
       url: "mailto:faroog1995@hotmail.com"
@@ -68,7 +69,6 @@ params:
       url: "https://www.linkedin.com/in/farogbasher"
     - name: "github"
       url: "https://github.com/farogfayz"
-
 
   # text search
   fuseOpts:
