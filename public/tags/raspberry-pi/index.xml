@@ -7,24 +7,6 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="http://localhost:1313/tags/raspberry-pi/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>OpenQuad</title>
-      <link>http://localhost:1313/projects/openquad/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/projects/openquad/</guid>
-      <description>Open-souce platform for drone automation</description>
-    </item>
-    
-    <item>
-      <title>Search and Reconnaissance Robot</title>
-      <link>http://localhost:1313/projects/search-and-reconnaissance-robot/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/projects/search-and-reconnaissance-robot/</guid>
-      <description>An all-terrain robot for disaster management!</description>
-    </item>
-    
-    <item>
       <title>SEBART-Pro</title>
       <link>http://localhost:1313/projects/sebart-pro/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
