@@ -57,6 +57,7 @@ Welcome to my personal portfolio website! This project showcases how I developed
 #### **Setup S3 Bucket**
 - Create an S3 bucket.
 - Enable static website hosting in the bucket settings.
+- edit the bucket policy so you can confirm public access to the bucket content
 
 #### **Set Up CloudFront**
 - Create a CloudFront distribution.
@@ -110,6 +111,7 @@ Welcome to my personal portfolio website! This project showcases how I developed
            AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
    ```
 2. Add the required AWS credentials to your GitHub repository secrets.
+3. the above GitHub Action workflow file will sync all the files in my case i only sync the /Public folder for easy use.
 
 ---
 
@@ -140,14 +142,6 @@ Welcome to my personal portfolio website! This project showcases how I developed
 
 ---
 
-## 💡 Future Improvements
-
-- Add analytics for visitor tracking.
-- Enhance the design with custom Hugo themes.
-- Integrate a blog section.
-
----
-
 ## 🤝 Contributing
 
 Feel free to fork this repository and make your own modifications. PRs are welcome! 🙌
@@ -157,15 +151,6 @@ Feel free to fork this repository and make your own modifications. PRs are welco
 ## 📜 License
 
 This project is licensed under the [MIT License](LICENSE).
-
----
-
-## 📧 Contact
-
-For any inquiries or feedback, feel free to reach out:
-- **Email**: yourname@example.com
-- **LinkedIn**: [Your LinkedIn](https://linkedin.com/in/yourprofile)
-- **Portfolio**: [Your Portfolio](https://yourdomain.com)
 
 ---
 
