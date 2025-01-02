@@ -7,7 +7,7 @@ tags: ["python", "AWS", "AWS segamaker", "JuypterLab", "AI"]
 showToc: false
 weight: 209
 cover:
-    image: "projects/Ddos/ddos.jpg"
+    image: "https://me.farog.click/projects/Ddos/ddos.jpg"
 --- 
 ## Description
 # DDoS Detection Using Machine Learning
