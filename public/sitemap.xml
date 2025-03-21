@@ -4,6 +4,8 @@
   <url>
     <loc>http://localhost:1313/projects/ddos/</loc>
   </url><url>
+    <loc>http://localhost:1313/projects/wazuh-seim/</loc>
+  </url><url>
     <loc>http://localhost:1313/experience/metu/</loc>
   </url><url>
     <loc>http://localhost:1313/experience/zdlab/</loc>
@@ -28,6 +30,8 @@
   </url><url>
     <loc>http://localhost:1313/tags/cisco/</loc>
   </url><url>
+    <loc>http://localhost:1313/tags/docker/</loc>
+  </url><url>
     <loc>http://localhost:1313/tags/drupal/</loc>
   </url><url>
     <loc>http://localhost:1313/experience/</loc>
@@ -42,6 +46,10 @@
   </url><url>
     <loc>http://localhost:1313/tags/linux/</loc>
   </url><url>
+    <loc>http://localhost:1313/tags/linux-ubuntu/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/logging/</loc>
+  </url><url>
     <loc>http://localhost:1313/tags/networking/</loc>
   </url><url>
     <loc>http://localhost:1313/projects/</loc>
@@ -53,6 +61,8 @@
     <loc>http://localhost:1313/tags/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/vspher/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/wazuh/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/windows-server/</loc>
   </url>

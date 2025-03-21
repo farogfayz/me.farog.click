@@ -15,6 +15,13 @@
       <description>Description DDoS Detection Using Machine Learning 1. What is DDoS? DDoS (Distributed Denial of Service) attacks overwhelm a target system (e.g., a server or website) with excessive traffic from multiple sources, rendering it inaccessible to legitimate users.&#xA;2. Why Use Machine Learning? Traditional detection methods, like rule-based systems, struggle to adapt to evolving attack patterns. Machine Learning (ML) provides a dynamic approach by analyzing traffic data and detecting anomalies in real-time.</description>
     </item>
     <item>
+      <title>Open-Source Security Platform For Threat Detection</title>
+      <link>http://localhost:1313/projects/wazuh-seim/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/wazuh-seim/</guid>
+      <description>Description Open-Source Security Platform For Threat Detection What is WAZUH? Wazuh is an open-source security platform designed for threat detection, compliance, and incident response. It helps organizations monitor their systems, detect security threats, and ensure compliance with various standards.&#xA;Why Use Wazuh? Wazuh is a powerful open-source security platform for threat detection, compliance monitoring, and incident response. It helps organizations monitor system security, detect anomalies, and meet compliance requirements.&#xA;Key Benefits: Free &amp;amp; Open-Source: No licensing costs compared to commercial SIEM solutions.</description>
+    </item>
+    <item>
       <title>Network and System Administrator</title>
       <link>http://localhost:1313/experience/metu/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
