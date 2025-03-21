@@ -1,28 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>AWS on Farog Basher</title>
-    <link>https://me.farog.click/tags/aws/</link>
+    <link>http://localhost:1313/tags/aws/</link>
     <description>Recent content in AWS on Farog Basher</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://me.farog.click/tags/aws/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/tags/aws/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>DDoS Detection using Machine Learning Methods</title>
-      <link>https://me.farog.click/projects/ddos/</link>
+      <link>http://localhost:1313/projects/ddos/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://me.farog.click/projects/ddos/</guid>
-      <description>DDoS Detection system with help of ML</description>
+      <guid>http://localhost:1313/projects/ddos/</guid>
+      <description>Description DDoS Detection Using Machine Learning 1. What is DDoS? DDoS (Distributed Denial of Service) attacks overwhelm a target system (e.g., a server or website) with excessive traffic from multiple sources, rendering it inaccessible to legitimate users.&#xA;2. Why Use Machine Learning? Traditional detection methods, like rule-based systems, struggle to adapt to evolving attack patterns. Machine Learning (ML) provides a dynamic approach by analyzing traffic data and detecting anomalies in real-time.</description>
     </item>
-    
     <item>
       <title>Network and System Administrator</title>
-      <link>https://me.farog.click/experience/metu/</link>
+      <link>http://localhost:1313/experience/metu/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://me.farog.click/experience/metu/</guid>
-      <description>Middle East Technical University Northern Cyprus Campus</description>
+      <guid>http://localhost:1313/experience/metu/</guid>
+      <description>Description Networking &amp;amp; Network Security: In-depth knowledge of networking fundamentals, including routing, switching, and protocols. Experienced with network security practices, firewalls, VPNs, IDS/IPS systems, and maintaining secure network environments. Cloud Platforms: Proficient in Amazon Web Services (AWS), including EC2, S3, RDS, VPC, IAM, and other core services for managing cloud infrastructure. Virtualization: Hands-on experience with VMware vSphere for creating, managing, and optimizing virtual environments Aruba Networks: Expertise in deploying and managing Aruba Systems for wireless networks, monitoring, and securing access.</description>
     </item>
-    
   </channel>
 </rss>
