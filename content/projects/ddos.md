@@ -1,7 +1,6 @@
 ---
 title: "DDoS Detection using Machine Learning Methods"
 description: "DDoS Detection system with help of ML"
-dateString: 2024
 draft: false
 tags: ["python", "AWS", "AWS segamaker", "JuypterLab", "AI"]
 showToc: false
