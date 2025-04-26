@@ -1,4 +1,4 @@
-# this is main Portfolio infp
+# this is main Portfolio info
 baseURL: "https://me.farog.click"
 languageCode: en-us
 title: Farog Basher
@@ -22,8 +22,8 @@ menu:
       name: Search
       url: https://me.farog.click/search
       weight: 50
-    - identifier: CV
-      name: CV
+    - identifier: Resume
+      name: Resume
       url: "https://drive.google.com/file/d/1_A7YPUN8aEAt2Jt7uGlVodCb2cv1MKx_/view?usp=sharing"
       weight: 60
 
@@ -43,15 +43,13 @@ params:
   profileMode:
     enabled: true
     title: "Farog Basher"
-    subtitle: Hi 👋 I'm Farog, As a passionate Network and Systems Administrator, I thrive at the intersection of technology and problem-solving. Over the years of hands-on experience, I specialize in designing, implementing, and managing robust IT infrastructures using tools in network and operating systems security and reliability.
+    subtitle: Hi 👋 I'm Farog, As a dedicated Networking and Systems Administrator, I excel at leveraging technology to solve complex problems. With over two years of hands-on experience, I specialize in designing, implementing, and managing robust IT infrastructures, with a strong focus on networking, operating systems, and ensuring security and reliability.
 
  
     imageUrl: "https://me.farog.click/home/me.jpg"
     imageWidth: 220
     imageHeight: 220
-    # buttons:
-    #   - name: Resume
-    #     url: ""
+
 
   # List View
   hideDescriptionInList: false

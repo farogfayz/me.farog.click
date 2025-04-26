@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>CCNA on Farog Basher</title>
     <link>http://localhost:1313/tags/ccna/</link>
     <description>Recent content in CCNA on Farog Basher</description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- 0.147.0</generator>
     <language>en-us</language>
     <atom:link href="http://localhost:1313/tags/ccna/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -12,7 +12,7 @@
       <link>http://localhost:1313/experience/zdlab/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/experience/zdlab/</guid>
-      <description>Description Networking Basics&#xA;Fundamentals of networking (LANs, WANs, VLANs, WLANs) OSI and TCP/IP models IP addressing and subnetting (IPv4 and IPv6) Ethernet concepts and technologies Network topologies and devices (routers, switches, firewalls) Cisco Device Basics&#xA;Cisco IOS (Internetwork Operating System) basics Command-Line Interface (CLI) navigation Initial configuration of Cisco routers and switches Saving and backing up configurations Switching and VLANs&#xA;Basics of switching and MAC addresses Configuring VLANs and trunking Spanning Tree Protocol (STP) for loop prevention Inter-VLAN routing Routing Concepts</description>
+      <description>ZD-LAB (Wuhan,China)</description>
     </item>
   </channel>
 </rss>

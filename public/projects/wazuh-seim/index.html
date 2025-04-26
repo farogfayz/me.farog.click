@@ -1,0 +1,411 @@
+<!DOCTYPE html>
+<html lang="en" dir="auto">
+
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script><meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta name="robots" content="index, follow">
+<title>Open-Source Security Platform For Threat Detection | Farog Basher</title>
+<meta name="keywords" content="docker, wazuh, linux-ubuntu, logging, AI">
+<meta name="description" content="Intrusion Detection, Log Analysis, File Integrity Monitoring, Vulnerability Detection, and SIEM Capabilities">
+<meta name="author" content="">
+<link rel="canonical" href="http://localhost:1313/projects/wazuh-seim/">
+<link crossorigin="anonymous" href="/assets/css/stylesheet.85c6ff9febe222f48442e0cb94ce3a9364c6644d81b68becf905357336901553.css" integrity="sha256-hcb/n&#43;viIvSEQuDLlM46k2TGZE2Btovs&#43;QU1czaQFVM=" rel="preload stylesheet" as="style">
+<link rel="icon" href="http://localhost:1313/favicon.ico">
+<link rel="icon" type="image/png" sizes="16x16" href="http://localhost:1313/favicon-16x16.png">
+<link rel="icon" type="image/png" sizes="32x32" href="http://localhost:1313/favicon-32x32.png">
+<link rel="apple-touch-icon" href="http://localhost:1313/apple-touch-icon.png">
+<link rel="mask-icon" href="http://localhost:1313/safari-pinned-tab.svg">
+<meta name="theme-color" content="#2e2e33">
+<meta name="msapplication-TileColor" content="#2e2e33">
+<link rel="alternate" hreflang="en" href="http://localhost:1313/projects/wazuh-seim/">
+<noscript>
+    <style>
+        #theme-toggle,
+        .top-link {
+            display: none;
+        }
+
+    </style>
+    <style>
+        @media (prefers-color-scheme: dark) {
+            :root {
+                --theme: rgb(29, 30, 32);
+                --entry: rgb(46, 46, 51);
+                --primary: rgb(218, 218, 219);
+                --secondary: rgb(155, 156, 157);
+                --tertiary: rgb(65, 66, 68);
+                --content: rgb(196, 196, 197);
+                --code-block-bg: rgb(46, 46, 51);
+                --code-bg: rgb(55, 56, 62);
+                --border: rgb(51, 51, 51);
+            }
+
+            .list {
+                background: var(--theme);
+            }
+
+            .list:not(.dark)::-webkit-scrollbar-track {
+                background: 0 0;
+            }
+
+            .list:not(.dark)::-webkit-scrollbar-thumb {
+                border-color: var(--theme);
+            }
+        }
+
+    </style>
+</noscript><meta property="og:url" content="http://localhost:1313/projects/wazuh-seim/">
+  <meta property="og:site_name" content="Farog Basher">
+  <meta property="og:title" content="Open-Source Security Platform For Threat Detection">
+  <meta property="og:description" content="Intrusion Detection, Log Analysis, File Integrity Monitoring, Vulnerability Detection, and SIEM Capabilities">
+  <meta property="og:locale" content="en-us">
+  <meta property="og:type" content="article">
+    <meta property="article:section" content="projects">
+    <meta property="article:tag" content="Docker">
+    <meta property="article:tag" content="Wazuh">
+    <meta property="article:tag" content="Linux-Ubuntu">
+    <meta property="article:tag" content="Logging">
+    <meta property="article:tag" content="AI">
+    <meta property="og:image" content="https://me.farog.click/projects/Ddos/ddos.jpg">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:image" content="https://me.farog.click/projects/Ddos/ddos.jpg">
+<meta name="twitter:title" content="Open-Source Security Platform For Threat Detection">
+<meta name="twitter:description" content="Intrusion Detection, Log Analysis, File Integrity Monitoring, Vulnerability Detection, and SIEM Capabilities">
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position":  1 ,
+      "name": "Projects",
+      "item": "http://localhost:1313/projects/"
+    }, 
+    {
+      "@type": "ListItem",
+      "position":  2 ,
+      "name": "Open-Source Security Platform For Threat Detection",
+      "item": "http://localhost:1313/projects/wazuh-seim/"
+    }
+  ]
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "headline": "Open-Source Security Platform For Threat Detection",
+  "name": "Open-Source Security Platform For Threat Detection",
+  "description": "Intrusion Detection, Log Analysis, File Integrity Monitoring, Vulnerability Detection, and SIEM Capabilities",
+  "keywords": [
+    "docker", "wazuh", "linux-ubuntu", "logging", "AI"
+  ],
+  "articleBody": "Description Open-Source Security Platform For Threat Detection What is WAZUH? Wazuh is an open-source security platform designed for threat detection, compliance, and incident response. It helps organizations monitor their systems, detect security threats, and ensure compliance with various standards.\nWhy Use Wazuh? Wazuh is a powerful open-source security platform for threat detection, compliance monitoring, and incident response. It helps organizations monitor system security, detect anomalies, and meet compliance requirements.\nKey Benefits: Free \u0026 Open-Source: No licensing costs compared to commercial SIEM solutions. Comprehensive Security: Provides log analysis, intrusion detection, vulnerability assessment, and compliance monitoring. Lightweight \u0026 Scalable: Works on Windows, Linux, macOS, cloud environments, and can scale to thousands of endpoints. Cloud Security: Supports monitoring for AWS, Azure, and Google Cloud. Strong Community \u0026 Continuous Updates: Regular improvements and active support from the open-source community. Key Steps in Using Wazuh Install Wazuh Server \u0026 Agents\nThe Wazuh server collects and analyzes security data. Wazuh agents are deployed on endpoints to monitor logs, processes, and files. Configure Security Modules\nFile Integrity Monitoring (FIM): Detects unauthorized file changes. Intrusion Detection System (IDS): Identifies suspicious activity. Log Analysis: Monitors system logs for security events. Vulnerability Detection: Scans for software vulnerabilities. Integrate with ELK Stack (Optional)\nUse Elasticsearch, Logstash, and Kibana (ELK) for log storage, processing, and visualization. Set Up Alerts \u0026 Automated Response\nDefine alert rules for security incidents. Configure automated responses to mitigate threats. Monitor \u0026 Analyze Security Data\nUse the Wazuh dashboard to visualize security events and take necessary actions. Who Uses Wazuh? System \u0026 Network Administrators – For real-time system and network security monitoring. Cybersecurity Teams – To detect and respond to security threats. Compliance Officers – To ensure regulatory compliance (PCI DSS, HIPAA, GDPR). Additional Information Official Website: https://wazuh.com Documentation: https://documentation.wazuh.com GitHub Repository: https://github.com/wazuh ",
+  "wordCount" : "295",
+  "inLanguage": "en",
+  "image":"https://me.farog.click/projects/Ddos/ddos.jpg","datePublished": "0001-01-01T00:00:00Z",
+  "dateModified": "0001-01-01T00:00:00Z",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "http://localhost:1313/projects/wazuh-seim/"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Farog Basher",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "http://localhost:1313/favicon.ico"
+    }
+  }
+}
+</script>
+</head>
+
+<body class="" id="top">
+<script>
+    if (localStorage.getItem("pref-theme") === "dark") {
+        document.body.classList.add('dark');
+    } else if (localStorage.getItem("pref-theme") === "light") {
+        document.body.classList.remove('dark')
+    } else if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
+        document.body.classList.add('dark');
+    }
+
+</script>
+
+<header class="header sticky-header">
+    <nav class="nav">
+        <div class="logo">
+            <a href="http://localhost:1313/" accesskey="h" title="Farog Basher (Alt + H)">Farog Basher</a>
+            <span class="logo-switches">
+                <button id="theme-toggle" accesskey="t" title="(Alt + T)">
+                    <svg id="moon" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"
+                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>
+                    </svg>
+                    <svg id="sun" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"
+                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <circle cx="12" cy="12" r="5"></circle>
+                        <line x1="12" y1="1" x2="12" y2="3"></line>
+                        <line x1="12" y1="21" x2="12" y2="23"></line>
+                        <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
+                        <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
+                        <line x1="1" y1="12" x2="3" y2="12"></line>
+                        <line x1="21" y1="12" x2="23" y2="12"></line>
+                        <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
+                        <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
+                    </svg>
+                </button>
+                <ul class="lang-switch"><li>|</li>
+                </ul>
+            </span>
+        </div>
+        <ul id="menu">
+            <li>
+                <a href="https://me.farog.click/" title="Home">
+                    <span>Home</span>
+                </a>
+            </li>
+            <li>
+                <a href="https://me.farog.click/projects" title="Projects">
+                    <span>Projects</span>
+                </a>
+            </li>
+            <li>
+                <a href="https://me.farog.click/experience" title="Experience">
+                    <span>Experience</span>
+                </a>
+            </li>
+            <li>
+                <a href="https://me.farog.click/search" title="Search (Alt &#43; /)" accesskey=/>
+                    <span>Search</span>
+                </a>
+            </li>
+            <li>
+                <a href="https://drive.google.com/file/d/1_A7YPUN8aEAt2Jt7uGlVodCb2cv1MKx_/view?usp=sharing" title="Resume">
+                    <span>Resume</span>
+                </a>
+            </li>
+        </ul>
+    </nav>
+</header>
+<main class="main">
+
+<article class="post-single">
+  <header class="post-header">
+    <div class="breadcrumbs"><a href="http://localhost:1313/">Home</a>&nbsp;»&nbsp;<a href="http://localhost:1313/projects/">Projects</a></div>
+    <h1 class="post-title entry-hint-parent">
+      Open-Source Security Platform For Threat Detection
+    </h1>
+    <div class="post-description">
+      Intrusion Detection, Log Analysis, File Integrity Monitoring, Vulnerability Detection, and SIEM Capabilities
+    </div>
+    <div class="post-meta">
+
+
+
+</div>
+  </header> 
+<figure class="entry-cover">
+        <img loading="eager" src="https://me.farog.click/projects/Ddos/ddos.jpg" alt="">
+        
+</figure>
+  <div class="post-content"><h2 id="description">Description<a hidden class="anchor" aria-hidden="true" href="#description">#</a></h2>
+<h1 id="open-source-security-platform-for-threat-detection">Open-Source Security Platform For Threat Detection<a hidden class="anchor" aria-hidden="true" href="#open-source-security-platform-for-threat-detection">#</a></h1>
+<h2 id="what-is-wazuh">What is WAZUH?<a hidden class="anchor" aria-hidden="true" href="#what-is-wazuh">#</a></h2>
+<p>Wazuh is an open-source security platform designed for threat detection, compliance, and incident response. It helps organizations monitor their systems, detect security threats, and ensure compliance with various standards.</p>
+<h2 id="why-use-wazuh">Why Use Wazuh?<a hidden class="anchor" aria-hidden="true" href="#why-use-wazuh">#</a></h2>
+<p>Wazuh is a powerful <strong>open-source security platform</strong> for <strong>threat detection, compliance monitoring, and incident response</strong>. It helps organizations monitor system security, detect anomalies, and meet compliance requirements.</p>
+<h3 id="key-benefits">Key Benefits:<a hidden class="anchor" aria-hidden="true" href="#key-benefits">#</a></h3>
+<ul>
+<li><strong>Free &amp; Open-Source:</strong> No licensing costs compared to commercial SIEM solutions.</li>
+<li><strong>Comprehensive Security:</strong> Provides <strong>log analysis, intrusion detection, vulnerability assessment, and compliance monitoring</strong>.</li>
+<li><strong>Lightweight &amp; Scalable:</strong> Works on <strong>Windows, Linux, macOS, cloud environments</strong>, and can scale to thousands of endpoints.</li>
+<li><strong>Cloud Security:</strong> Supports monitoring for <strong>AWS, Azure, and Google Cloud</strong>.</li>
+<li><strong>Strong Community &amp; Continuous Updates:</strong> Regular improvements and active support from the open-source community.</li>
+</ul>
+<h2 id="key-steps-in-using-wazuh">Key Steps in Using Wazuh<a hidden class="anchor" aria-hidden="true" href="#key-steps-in-using-wazuh">#</a></h2>
+<ol>
+<li>
+<p><strong>Install Wazuh Server &amp; Agents</strong></p>
+<ul>
+<li>The <strong>Wazuh server</strong> collects and analyzes security data.</li>
+<li><strong>Wazuh agents</strong> are deployed on endpoints to monitor logs, processes, and files.</li>
+</ul>
+</li>
+<li>
+<p><strong>Configure Security Modules</strong></p>
+<ul>
+<li><strong>File Integrity Monitoring (FIM):</strong> Detects unauthorized file changes.</li>
+<li><strong>Intrusion Detection System (IDS):</strong> Identifies suspicious activity.</li>
+<li><strong>Log Analysis:</strong> Monitors system logs for security events.</li>
+<li><strong>Vulnerability Detection:</strong> Scans for software vulnerabilities.</li>
+</ul>
+</li>
+<li>
+<p><strong>Integrate with ELK Stack (Optional)</strong></p>
+<ul>
+<li>Use <strong>Elasticsearch, Logstash, and Kibana (ELK)</strong> for log storage, processing, and visualization.</li>
+</ul>
+</li>
+<li>
+<p><strong>Set Up Alerts &amp; Automated Response</strong></p>
+<ul>
+<li>Define alert rules for security incidents.</li>
+<li>Configure automated responses to mitigate threats.</li>
+</ul>
+</li>
+<li>
+<p><strong>Monitor &amp; Analyze Security Data</strong></p>
+<ul>
+<li>Use the <strong>Wazuh dashboard</strong> to visualize security events and take necessary actions.</li>
+</ul>
+</li>
+</ol>
+<h2 id="who-uses-wazuh">Who Uses Wazuh?<a hidden class="anchor" aria-hidden="true" href="#who-uses-wazuh">#</a></h2>
+<ul>
+<li><strong>System &amp; Network Administrators</strong> – For real-time system and network security monitoring.</li>
+<li><strong>Cybersecurity Teams</strong> – To detect and respond to security threats.</li>
+<li><strong>Compliance Officers</strong> – To ensure regulatory compliance (PCI DSS, HIPAA, GDPR).</li>
+</ul>
+<h2 id="additional-information">Additional Information<a hidden class="anchor" aria-hidden="true" href="#additional-information">#</a></h2>
+<ul>
+<li><strong>Official Website:</strong> <a href="https://wazuh.com">https://wazuh.com</a></li>
+<li><strong>Documentation:</strong> <a href="https://documentation.wazuh.com">https://documentation.wazuh.com</a></li>
+<li><strong>GitHub Repository:</strong> <a href="https://github.com/wazuh">https://github.com/wazuh</a></li>
+</ul>
+
+
+  </div>
+
+  <footer class="post-footer">
+    <ul class="post-tags">
+      <li><a href="http://localhost:1313/tags/docker/">Docker</a></li>
+      <li><a href="http://localhost:1313/tags/wazuh/">Wazuh</a></li>
+      <li><a href="http://localhost:1313/tags/linux-ubuntu/">Linux-Ubuntu</a></li>
+      <li><a href="http://localhost:1313/tags/logging/">Logging</a></li>
+      <li><a href="http://localhost:1313/tags/ai/">AI</a></li>
+    </ul>
+  </footer>
+</article>
+    </main>
+    
+<footer class="footer">
+    <span>&copy; 2025 <a href="http://localhost:1313/">Farog Basher</a></span>
+</footer>
+<a href="#top" aria-label="go to top" title="Go to Top (Alt + G)" class="top-link" id="top-link" accesskey="g">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12 6" fill="currentColor">
+        <path d="M12 6H0l6-6z" />
+    </svg>
+</a>
+
+<script>
+    let menu = document.getElementById('menu')
+    if (menu) {
+        menu.scrollLeft = localStorage.getItem("menu-scroll-position");
+        menu.onscroll = function () {
+            localStorage.setItem("menu-scroll-position", menu.scrollLeft);
+        }
+    }
+
+    document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+        anchor.addEventListener("click", function (e) {
+            e.preventDefault();
+            var id = this.getAttribute("href").substr(1);
+            if (!window.matchMedia('(prefers-reduced-motion: reduce)').matches) {
+                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView({
+                    behavior: "smooth"
+                });
+            } else {
+                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView();
+            }
+            if (id === "top") {
+                history.replaceState(null, null, " ");
+            } else {
+                history.pushState(null, null, `#${id}`);
+            }
+        });
+    });
+
+</script>
+<script>
+    var mybutton = document.getElementById("top-link");
+    window.onscroll = function () {
+        if (document.body.scrollTop > 800 || document.documentElement.scrollTop > 800) {
+            mybutton.style.visibility = "visible";
+            mybutton.style.opacity = "1";
+        } else {
+            mybutton.style.visibility = "hidden";
+            mybutton.style.opacity = "0";
+        }
+    };
+
+</script>
+<script>
+    document.getElementById("theme-toggle").addEventListener("click", () => {
+        if (document.body.className.includes("dark")) {
+            document.body.classList.remove('dark');
+            localStorage.setItem("pref-theme", 'light');
+        } else {
+            document.body.classList.add('dark');
+            localStorage.setItem("pref-theme", 'dark');
+        }
+    })
+
+</script>
+<script>
+    document.querySelectorAll('pre > code').forEach((codeblock) => {
+        const container = codeblock.parentNode.parentNode;
+
+        const copybutton = document.createElement('button');
+        copybutton.classList.add('copy-code');
+        copybutton.innerHTML = 'copy';
+
+        function copyingDone() {
+            copybutton.innerHTML = 'copied!';
+            setTimeout(() => {
+                copybutton.innerHTML = 'copy';
+            }, 2000);
+        }
+
+        copybutton.addEventListener('click', (cb) => {
+            if ('clipboard' in navigator) {
+                navigator.clipboard.writeText(codeblock.textContent);
+                copyingDone();
+                return;
+            }
+
+            const range = document.createRange();
+            range.selectNodeContents(codeblock);
+            const selection = window.getSelection();
+            selection.removeAllRanges();
+            selection.addRange(range);
+            try {
+                document.execCommand('copy');
+                copyingDone();
+            } catch (e) { };
+            selection.removeRange(range);
+        });
+
+        if (container.classList.contains("highlight")) {
+            container.appendChild(copybutton);
+        } else if (container.parentNode.firstChild == container) {
+            
+        } else if (codeblock.parentNode.parentNode.parentNode.parentNode.parentNode.nodeName == "TABLE") {
+            
+            codeblock.parentNode.parentNode.parentNode.parentNode.parentNode.appendChild(copybutton);
+        } else {
+            
+            codeblock.parentNode.appendChild(copybutton);
+        }
+    });
+</script>
+</body>
+
+</html>
