@@ -129,19 +129,6 @@ Welcome to my personal portfolio website! This project showcases how I developed
 
 ---
 
-## 📸 Screenshots
-
-### S3 Bucket Settings 🪣
-*(Add a screenshot of your S3 bucket settings here)*
-
-### CloudFront Distribution ⚡
-*(Add a screenshot of your CloudFront distribution setup here)*
-
-### GitHub Actions Workflow 🔄
-*(Add a screenshot of your GitHub Actions pipeline here)*
-
----
-
 ## 🤝 Contributing
 
 Feel free to fork this repository and make your own modifications. PRs are welcome! 🙌
@@ -155,3 +142,4 @@ This project is licensed under the [MIT License](LICENSE).
 ---
 
 Thank you for visiting!
+feel free to contact me for any issues. 
