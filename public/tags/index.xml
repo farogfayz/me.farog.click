@@ -15,20 +15,6 @@
       <description></description>
     </item>
     <item>
-      <title>Ansible</title>
-      <link>http://me.farog.click/tags/ansible/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://me.farog.click/tags/ansible/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Aruba</title>
-      <link>http://me.farog.click/tags/aruba/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://me.farog.click/tags/aruba/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>AWS</title>
       <link>http://me.farog.click/tags/aws/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -43,27 +29,6 @@
       <description></description>
     </item>
     <item>
-      <title>Bash</title>
-      <link>http://me.farog.click/tags/bash/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://me.farog.click/tags/bash/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>CCNA</title>
-      <link>http://me.farog.click/tags/ccna/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://me.farog.click/tags/ccna/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Cisco</title>
-      <link>http://me.farog.click/tags/cisco/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://me.farog.click/tags/cisco/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Docker</title>
       <link>http://me.farog.click/tags/docker/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -71,38 +36,10 @@
       <description></description>
     </item>
     <item>
-      <title>Drupal</title>
-      <link>http://me.farog.click/tags/drupal/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://me.farog.click/tags/drupal/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>FortiGate</title>
-      <link>http://me.farog.click/tags/fortigate/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://me.farog.click/tags/fortigate/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>HTML</title>
-      <link>http://me.farog.click/tags/html/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://me.farog.click/tags/html/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>JuypterLab</title>
       <link>http://me.farog.click/tags/juypterlab/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://me.farog.click/tags/juypterlab/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Linux</title>
-      <link>http://me.farog.click/tags/linux/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://me.farog.click/tags/linux/</guid>
       <description></description>
     </item>
     <item>
@@ -120,13 +57,6 @@
       <description></description>
     </item>
     <item>
-      <title>Networking</title>
-      <link>http://me.farog.click/tags/networking/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://me.farog.click/tags/networking/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Python</title>
       <link>http://me.farog.click/tags/python/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -134,24 +64,10 @@
       <description></description>
     </item>
     <item>
-      <title>VSphere</title>
-      <link>http://me.farog.click/tags/vsphere/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://me.farog.click/tags/vsphere/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Wazuh</title>
       <link>http://me.farog.click/tags/wazuh/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://me.farog.click/tags/wazuh/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Windows Server</title>
-      <link>http://me.farog.click/tags/windows-server/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://me.farog.click/tags/windows-server/</guid>
       <description></description>
     </item>
   </channel>
