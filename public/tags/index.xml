@@ -2,72 +2,72 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on Farog Basher</title>
-    <link>http://localhost:1313/tags/</link>
+    <link>http://me.farog.click/tags/</link>
     <description>Recent content in Tags on Farog Basher</description>
     <generator>Hugo -- 0.147.0</generator>
     <language>en-us</language>
-    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://me.farog.click/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>AI</title>
-      <link>http://localhost:1313/tags/ai/</link>
+      <link>http://me.farog.click/tags/ai/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/ai/</guid>
+      <guid>http://me.farog.click/tags/ai/</guid>
       <description></description>
     </item>
     <item>
       <title>AWS</title>
-      <link>http://localhost:1313/tags/aws/</link>
+      <link>http://me.farog.click/tags/aws/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/aws/</guid>
+      <guid>http://me.farog.click/tags/aws/</guid>
       <description></description>
     </item>
     <item>
       <title>AWS Segamaker</title>
-      <link>http://localhost:1313/tags/aws-segamaker/</link>
+      <link>http://me.farog.click/tags/aws-segamaker/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/aws-segamaker/</guid>
+      <guid>http://me.farog.click/tags/aws-segamaker/</guid>
       <description></description>
     </item>
     <item>
       <title>Docker</title>
-      <link>http://localhost:1313/tags/docker/</link>
+      <link>http://me.farog.click/tags/docker/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/docker/</guid>
+      <guid>http://me.farog.click/tags/docker/</guid>
       <description></description>
     </item>
     <item>
       <title>JuypterLab</title>
-      <link>http://localhost:1313/tags/juypterlab/</link>
+      <link>http://me.farog.click/tags/juypterlab/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/juypterlab/</guid>
+      <guid>http://me.farog.click/tags/juypterlab/</guid>
       <description></description>
     </item>
     <item>
       <title>Linux-Ubuntu</title>
-      <link>http://localhost:1313/tags/linux-ubuntu/</link>
+      <link>http://me.farog.click/tags/linux-ubuntu/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/linux-ubuntu/</guid>
+      <guid>http://me.farog.click/tags/linux-ubuntu/</guid>
       <description></description>
     </item>
     <item>
       <title>Logging</title>
-      <link>http://localhost:1313/tags/logging/</link>
+      <link>http://me.farog.click/tags/logging/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/logging/</guid>
+      <guid>http://me.farog.click/tags/logging/</guid>
       <description></description>
     </item>
     <item>
       <title>Python</title>
-      <link>http://localhost:1313/tags/python/</link>
+      <link>http://me.farog.click/tags/python/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/python/</guid>
+      <guid>http://me.farog.click/tags/python/</guid>
       <description></description>
     </item>
     <item>
       <title>Wazuh</title>
-      <link>http://localhost:1313/tags/wazuh/</link>
+      <link>http://me.farog.click/tags/wazuh/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/wazuh/</guid>
+      <guid>http://me.farog.click/tags/wazuh/</guid>
       <description></description>
     </item>
   </channel>
