@@ -14,10 +14,10 @@ menu:
       name: Projects 👨🏻‍💻
       url: https://me.farog.click/projects
       weight: 30
-    - identifier: experience
-      name: Experience 
-      url: https://me.farog.click/experience
-      weight: 40
+    #- identifier: experience
+     # name: Experience 
+      #url: https://me.farog.click/experience
+      #weight: 40
     - identifier: search
       name: Search 🔍
       url: https://me.farog.click/search
