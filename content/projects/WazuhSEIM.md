@@ -6,7 +6,7 @@ tags: ["docker", "wazuh", "linux-ubuntu", "logging", "AI"]
 showToc: false
 weight: 210
 cover:
-    image: "https://me.farog.click/projects/Ddos/wazuh.png"
+    image: "https://me.farog.click/projects/Ddos/wazuh.jpg"
 --- 
 ## Description
 # Open-Source Security Platform For Threat Detection
