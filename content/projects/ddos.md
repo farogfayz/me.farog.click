@@ -3,7 +3,7 @@ title: "DDoS Detection using Machine Learning Methods"
 description: "DDoS Detection system with help of ML"
 draft: false
 tags: ["python", "AWS", "AWS segamaker", "JuypterLab", "AI"]
-showToc: false
+showToc: true
 weight: 209
 cover:
     image: "https://me.farog.click/projects/ddos.png"
