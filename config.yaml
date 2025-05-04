@@ -24,7 +24,7 @@ menu:
       weight: 50
     - identifier: Resume
       name: Resume 🤝
-      url: "https://drive.google.com/file/d/1_A7YPUN8aEAt2Jt7uGlVodCb2cv1MKx_/view?usp=sharing"
+      url: "https://my-s3-pers-files.s3.us-east-2.amazonaws.com/Resume.pdf"
       weight: 60
 
 params:
