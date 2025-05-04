@@ -6,7 +6,7 @@ tags: ["Ansible", "Network Automation", "DevOps", "Cisco", "Linux", "Infrastruct
 showToc: true
 weight: 208
 cover:
-  image: "https://me.farog.click/projects/ansible.png"
+  image: "http://localhost:1313/projects/ansible.png"
 ---
 
 # Network Automation with Ansible
@@ -65,9 +65,9 @@ This project showcases how to use **Ansible**, an open-source automation tool, t
 ---
 
 ## Resources
-- 🌐 [Ansible Networking Docs](https://docs.ansible.com/network/)  
-- 📦 [Cisco IOS Collection](https://galaxy.ansible.com/cisco/ios)  
-- 💻 [GitHub Sample Repo](https://github.com/ansible-network)
+- 🌐 [Ansible Networking Docs](http://docs.ansible.com/network/)  
+- 📦 [Cisco IOS Collection](http://galaxy.ansible.com/cisco/ios)  
+- 💻 [GitHub Sample Repo](http://github.com/ansible-network)
 
 ---
 

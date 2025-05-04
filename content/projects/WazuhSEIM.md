@@ -3,10 +3,10 @@ title: "Open-Source Security Platform For Threat Detection"
 description: "Intrusion Detection, Log Analysis, File Integrity Monitoring, Vulnerability Detection, and SIEM Capabilities"
 draft: false
 tags: ["docker", "wazuh", "linux-ubuntu", "logging", "AI"]
-showToc: false
+showToc: true
 weight: 210
 cover:
-    image: "https://me.farog.click/projects/wazuh.png"
+    image: "http://localhost:1313/projects/wazuh.png"
 --- 
 ## Description
 # Open-Source Security Platform For Threat Detection
@@ -52,8 +52,8 @@ Wazuh is a powerful **open-source security platform** for **threat detection, co
 - **Compliance Officers** – To ensure regulatory compliance (PCI DSS, HIPAA, GDPR).  
 
 ## Additional Information  
-- **Official Website:** [https://wazuh.com](https://wazuh.com)  
-- **Documentation:** [https://documentation.wazuh.com](https://documentation.wazuh.com)  
-- **GitHub Repository:** [https://github.com/wazuh](https://github.com/wazuh)  
+- **Official Website:** [http://wazuh.com](http://wazuh.com)  
+- **Documentation:** [http://documentation.wazuh.com](http://documentation.wazuh.com)  
+- **GitHub Repository:** [http://github.com/wazuh](http://github.com/wazuh)  
 
 

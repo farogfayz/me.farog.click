@@ -1,5 +1,5 @@
 # this is main Portfolio info
-baseURL: "https://me.farog.click"
+baseURL: "https://me.farog.click/"
 languageCode: en-us
 title: Farog Basher
 theme: PaperMod
@@ -8,23 +8,23 @@ menu:
   main:
     - identifier: home
       name: Home 🏠
-      url: https://me.farog.click/
+      url: http://localhost:1313/
       weight: 10
     - identifier: projects 
       name: Projects 👨🏻‍💻
-      url: https://me.farog.click/projects
+      url: http://localhost:1313/projects
       weight: 30
     #- identifier: experience
      # name: Experience 
-      #url: https://me.farog.click/experience
+      #url: http://localhost:1313/experience
       #weight: 40
     - identifier: search
       name: Search 🔍
-      url: https://me.farog.click/search
+      url: http://localhost:1313/search
       weight: 50
     - identifier: Resume
       name: Resume 🤝
-      url: "https://my-s3-pers-files.s3.us-east-2.amazonaws.com/Resume.pdf"
+      url: "http://my-s3-pers-files.s3.us-east-2.amazonaws.com/Resume.pdf"
       weight: 60
 
 params:
@@ -46,7 +46,7 @@ params:
     subtitle: Hi 👋 I'm Farog, As a dedicated Networking and Systems Administrator, I excel at leveraging technology to solve complex problems. With over 2 years of hands-on experience as Networking and System Admin, I specialize in designing, implementing, and managing robust IT infrastructures, with a strong focus on networking, operating systems, and ensuring security and reliability.
 
  
-    imageUrl: "https://me.farog.click/home/me.jpg"
+    imageUrl: "http://localhost:1313/home/me.jpg"
     imageWidth: 220
     imageHeight: 220
 
@@ -64,9 +64,9 @@ params:
     - name: "email"
       url: "mailto:faroog1995@hotmail.com"
     - name: "linkedin"
-      url: "https://www.linkedin.com/in/farogbasher"
+      url: "http://www.linkedin.com/in/farogbasher"
     - name: "github"
-      url: "https://github.com/farogfayz"
+      url: "http://github.com/farogfayz"
 
   # text search
   fuseOpts:

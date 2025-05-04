@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="https://www.w3.org/2005/Atom" xmlns:content="https://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>AWS Segamaker on Farog Basher</title>
-    <link>http://me.farog.click/tags/aws-segamaker/</link>
+    <link>http://localhost:1313/tags/aws-segamaker/</link>
     <description>Recent content in AWS Segamaker on Farog Basher</description>
     <generator>Hugo -- 0.147.0</generator>
     <language>en-us</language>
-    <atom:link href="http://me.farog.click/tags/aws-segamaker/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/aws-segamaker/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>DDoS Detection using Machine Learning Methods</title>
-      <link>http://me.farog.click/projects/ddos/</link>
+      <link>http://localhost:1313/projects/ddos/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://me.farog.click/projects/ddos/</guid>
+      <guid>http://localhost:1313/projects/ddos/</guid>
       <description>DDoS Detection system with help of ML</description>
     </item>
   </channel>

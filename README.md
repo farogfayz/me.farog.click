@@ -6,12 +6,12 @@ Welcome to my personal portfolio website! This project showcases how I developed
 
 ## 🛠️ Tech Stack
 
-- **[Hugo](https://gohugo.io/)**: Static site generator.
-- **[AWS S3](https://aws.amazon.com/s3/)**: For hosting the static site.
-- **[AWS CloudFront](https://aws.amazon.com/cloudfront/)**: Content delivery network for improved speed and security.
-- **[AWS Certificate Manager (ACM)](https://aws.amazon.com/certificate-manager/)**: To provide SSL/TLS for the site.
-- **[AWS Route 53](https://aws.amazon.com/route53/)**: To manage my domain.
-- **[GitHub Actions](https://github.com/features/actions)**: CI/CD pipeline for automatic deployment.
+- **[Hugo](http://gohugo.io/)**: Static site generator.
+- **[AWS S3](http://aws.amazon.com/s3/)**: For hosting the static site.
+- **[AWS CloudFront](http://aws.amazon.com/cloudfront/)**: Content delivery network for improved speed and security.
+- **[AWS Certificate Manager (ACM)](http://aws.amazon.com/certificate-manager/)**: To provide SSL/TLS for the site.
+- **[AWS Route 53](http://aws.amazon.com/route53/)**: To manage my domain.
+- **[GitHub Actions](http://github.com/features/actions)**: CI/CD pipeline for automatic deployment.
 
 ---
 
@@ -32,7 +32,7 @@ Welcome to my personal portfolio website! This project showcases how I developed
    ```bash
    brew install hugo
    ```
-   or check [Hugo installation guide](https://gohugo.io/getting-started/installing/).
+   or check [Hugo installation guide](http://gohugo.io/getting-started/installing/).
 
 2. Create a Hugo site:
    ```bash

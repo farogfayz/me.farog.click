@@ -1,7 +1,7 @@
 {{ if .IsHome }}
 <script type="application/ld+json">
 {
-  "@context": "https://schema.org",
+  "@context": "http://schema.org",
   "@type": "{{- ( site.Params.schema.publisherType | default "Organization") | title -}}",
   "name": {{ site.Title }},
   "url": {{ site.Home.Permalink }},
@@ -29,7 +29,7 @@
 {{- $scratch := newScratch }}
 <script type="application/ld+json">
 {
-  "@context": "https://schema.org",
+  "@context": "http://schema.org",
   "@type": "BreadcrumbList",
   "itemListElement": [
   {{- range $index, $element := $bc_list }}
@@ -62,7 +62,7 @@
 {{- if .IsPage }}
 <script type="application/ld+json">
 {
-  "@context": "https://schema.org",
+  "@context": "http://schema.org",
   "@type": "BlogPosting",
   "headline": {{ .Title | plainify}},
   "name": "{{ .Title | plainify }}",

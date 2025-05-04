@@ -8,11 +8,11 @@ body:
       value: |
         Thanks for taking the time to fill out this bug report :)
         - Kindly **DO NOT** ask for instructions.
-        - Use [Discussions](https://github.com/adityatelange/hugo-PaperMod/discussions) section if you have a query or doubts or any other relevant question.
-        - You may join [Discord community](https://discord.gg/ahpmTvhVmp) to interact with fellow contributors and users
-        - Read project's [Wiki](https://github.com/adityatelange/hugo-PaperMod/wiki) for detailed documentation.
-        - Read project's [FAQs](https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs) section for Frequently asked questions.
-        - Search for previous [Issues](https://github.com/adityatelange/hugo-PaperMod/issues)/[Pull Requests](https://github.com/adityatelange/hugo-PaperMod/pulls) if this issue is already reported or fix has been created.
+        - Use [Discussions](http://github.com/adityatelange/hugo-PaperMod/discussions) section if you have a query or doubts or any other relevant question.
+        - You may join [Discord community](http://discord.gg/ahpmTvhVmp) to interact with fellow contributors and users
+        - Read project's [Wiki](http://github.com/adityatelange/hugo-PaperMod/wiki) for detailed documentation.
+        - Read project's [FAQs](http://github.com/adityatelange/hugo-PaperMod/wiki/FAQs) section for Frequently asked questions.
+        - Search for previous [Issues](http://github.com/adityatelange/hugo-PaperMod/issues)/[Pull Requests](http://github.com/adityatelange/hugo-PaperMod/pulls) if this issue is already reported or fix has been created.
   - type: textarea
     id: what_happened
     attributes:
@@ -97,14 +97,14 @@ body:
     attributes:
       label: Repository/Source Code link where this issue can be reproduced
       description: Please add url of the repository where this issue can be reproduced
-      placeholder: https://github.com/<username>/<repo name>
+      placeholder: http://github.com/<username>/<repo name>
     validations:
       required: false
   - type: checkboxes
     id: terms
     attributes:
       label: Code of Conduct
-      description: By submitting this issue, you agree to follow our [Code of Conduct](https://github.com/adityatelange/hugo-PaperMod?tab=coc-ov-file#readme).
+      description: By submitting this issue, you agree to follow our [Code of Conduct](http://github.com/adityatelange/hugo-PaperMod?tab=coc-ov-file#readme).
       options:
         - label: I agree to follow this project's Code of Conduct
           required: true
