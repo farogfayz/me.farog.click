@@ -8,19 +8,15 @@ menu:
   main:
     - identifier: home
       name: Home 🏠
-      url: http://localhost:1313/
+      url: /
       weight: 10
     - identifier: projects 
       name: Projects 👨🏻‍💻
-      url: http://localhost:1313/projects
+      url: /projects
       weight: 30
-    #- identifier: experience
-     # name: Experience 
-      #url: http://localhost:1313/experience
-      #weight: 40
     - identifier: search
       name:  Search 🔍
-      url: http://localhost:1313/search
+      url: /search
       weight: 50
     - identifier: Resume
       name: Resume 🤝
@@ -46,7 +42,7 @@ params:
     subtitle: Hi 👋 I'm Farog, As a dedicated Networking and Systems Administrator, I excel at leveraging technology to solve complex problems. With over 2 years of hands-on experience as Networking and System Admin, I specialize in designing, implementing, and managing robust IT infrastructures, with a strong focus on networking, operating systems, and ensuring security and reliability.
 
  
-    imageUrl: "http://localhost:1313/home/me.jpg"
+    imageUrl: "/home/me.jpg"
     imageWidth: 220
     imageHeight: 220
 

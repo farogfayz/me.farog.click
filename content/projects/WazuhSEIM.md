@@ -6,7 +6,7 @@ tags: ["docker", "wazuh", "linux-ubuntu", "logging", "AI"]
 showToc: true
 weight: 210
 cover:
-    image: "http://localhost:1313/projects/wazuh.png"
+    image: "/projects/wazuh.png"
 --- 
 ## Description
 # Open-Source Security Platform For Threat Detection

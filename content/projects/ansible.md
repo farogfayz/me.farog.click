@@ -6,7 +6,7 @@ tags: ["Ansible", "Network Automation", "DevOps", "Cisco", "Linux", "Infrastruct
 showToc: true
 weight: 208
 cover:
-  image: "http://localhost:1313/projects/ansible.png"
+  image: "/projects/ansible.png"
 ---
 
 # Network Automation with Ansible
