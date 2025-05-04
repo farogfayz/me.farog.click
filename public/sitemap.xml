@@ -2,50 +2,50 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/projects/ansible/</loc>
+    <loc>http://yourdomain.com:1313/projects/ansible/</loc>
   </url><url>
-    <loc>http://localhost:1313/projects/ddos/</loc>
+    <loc>http://yourdomain.com:1313/projects/ddos/</loc>
   </url><url>
-    <loc>http://localhost:1313/projects/wazuhseim/</loc>
+    <loc>http://yourdomain.com:1313/projects/wazuhseim/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/ai/</loc>
+    <loc>http://yourdomain.com:1313/tags/ai/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/ansible/</loc>
+    <loc>http://yourdomain.com:1313/tags/ansible/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/aws/</loc>
+    <loc>http://yourdomain.com:1313/tags/aws/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/aws-segamaker/</loc>
+    <loc>http://yourdomain.com:1313/tags/aws-segamaker/</loc>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>http://yourdomain.com:1313/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/cisco/</loc>
+    <loc>http://yourdomain.com:1313/tags/cisco/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/devops/</loc>
+    <loc>http://yourdomain.com:1313/tags/devops/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/docker/</loc>
+    <loc>http://yourdomain.com:1313/tags/docker/</loc>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>http://yourdomain.com:1313/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/infrastructure-as-code/</loc>
+    <loc>http://yourdomain.com:1313/tags/infrastructure-as-code/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/juypterlab/</loc>
+    <loc>http://yourdomain.com:1313/tags/juypterlab/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/linux/</loc>
+    <loc>http://yourdomain.com:1313/tags/linux/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/linux-ubuntu/</loc>
+    <loc>http://yourdomain.com:1313/tags/linux-ubuntu/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/logging/</loc>
+    <loc>http://yourdomain.com:1313/tags/logging/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/network-automation/</loc>
+    <loc>http://yourdomain.com:1313/tags/network-automation/</loc>
   </url><url>
-    <loc>http://localhost:1313/projects/</loc>
+    <loc>http://yourdomain.com:1313/projects/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/python/</loc>
+    <loc>http://yourdomain.com:1313/tags/python/</loc>
   </url><url>
-    <loc>http://localhost:1313/search/</loc>
+    <loc>http://yourdomain.com:1313/search/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>http://yourdomain.com:1313/tags/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/wazuh/</loc>
+    <loc>http://yourdomain.com:1313/tags/wazuh/</loc>
   </url>
 </urlset>
