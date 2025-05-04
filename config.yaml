@@ -24,7 +24,7 @@ menu:
       weight: 50
     - identifier: Resume
       name: Resume 🤝
-      url: "http://my-s3-pers-files.s3.us-east-2.amazonaws.com/Resume.pdf"
+      url: "https://my-s3-pers-files.s3.us-east-2.amazonaws.com/Resume.pdf"
       weight: 60
 
 params:
