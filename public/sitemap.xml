@@ -2,13 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://me.farog.click/projects/ddos/</loc>
-  </url><url>
     <loc>http://me.farog.click/projects/ansible/</loc>
+  </url><url>
+    <loc>http://me.farog.click/projects/ddos/</loc>
   </url><url>
     <loc>http://me.farog.click/projects/wazuhseim/</loc>
   </url><url>
     <loc>http://me.farog.click/tags/ai/</loc>
+  </url><url>
+    <loc>http://me.farog.click/tags/ansible/</loc>
   </url><url>
     <loc>http://me.farog.click/tags/aws/</loc>
   </url><url>
@@ -16,15 +18,25 @@
   </url><url>
     <loc>http://me.farog.click/categories/</loc>
   </url><url>
+    <loc>http://me.farog.click/tags/cisco/</loc>
+  </url><url>
+    <loc>http://me.farog.click/tags/devops/</loc>
+  </url><url>
     <loc>http://me.farog.click/tags/docker/</loc>
   </url><url>
     <loc>http://me.farog.click/</loc>
   </url><url>
+    <loc>http://me.farog.click/tags/infrastructure-as-code/</loc>
+  </url><url>
     <loc>http://me.farog.click/tags/juypterlab/</loc>
+  </url><url>
+    <loc>http://me.farog.click/tags/linux/</loc>
   </url><url>
     <loc>http://me.farog.click/tags/linux-ubuntu/</loc>
   </url><url>
     <loc>http://me.farog.click/tags/logging/</loc>
+  </url><url>
+    <loc>http://me.farog.click/tags/network-automation/</loc>
   </url><url>
     <loc>http://me.farog.click/projects/</loc>
   </url><url>

@@ -15,6 +15,13 @@
       <description></description>
     </item>
     <item>
+      <title>Ansible</title>
+      <link>http://me.farog.click/tags/ansible/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://me.farog.click/tags/ansible/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>AWS</title>
       <link>http://me.farog.click/tags/aws/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -29,6 +36,20 @@
       <description></description>
     </item>
     <item>
+      <title>Cisco</title>
+      <link>http://me.farog.click/tags/cisco/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://me.farog.click/tags/cisco/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>DevOps</title>
+      <link>http://me.farog.click/tags/devops/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://me.farog.click/tags/devops/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Docker</title>
       <link>http://me.farog.click/tags/docker/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -36,10 +57,24 @@
       <description></description>
     </item>
     <item>
+      <title>Infrastructure as Code</title>
+      <link>http://me.farog.click/tags/infrastructure-as-code/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://me.farog.click/tags/infrastructure-as-code/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>JuypterLab</title>
       <link>http://me.farog.click/tags/juypterlab/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://me.farog.click/tags/juypterlab/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Linux</title>
+      <link>http://me.farog.click/tags/linux/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://me.farog.click/tags/linux/</guid>
       <description></description>
     </item>
     <item>
@@ -54,6 +89,13 @@
       <link>http://me.farog.click/tags/logging/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://me.farog.click/tags/logging/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Network Automation</title>
+      <link>http://me.farog.click/tags/network-automation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://me.farog.click/tags/network-automation/</guid>
       <description></description>
     </item>
     <item>
