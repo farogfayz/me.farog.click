@@ -8,7 +8,7 @@ let resultsAvailable = false;
 
 // load our search index
 window.onload = function () {
-    let xhr = new XMLHttpRequest();
+    let xhr = new XMLhttpsRequest();
     xhr.onreadystatechange = function () {
         if (xhr.readyState === 4) {
             if (xhr.status === 200) {
