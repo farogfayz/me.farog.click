@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Farog Basher</title>
-    <link>http://yourdomain.com:1313/</link>
+    <link>https://me.farog.click:1313/</link>
     <description>Recent content on Farog Basher</description>
     <generator>Hugo -- 0.147.0</generator>
     <language>en-us</language>
-    <atom:link href="http://yourdomain.com:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://me.farog.click:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Network Automation with Ansible</title>
-      <link>http://yourdomain.com:1313/projects/ansible/</link>
+      <link>https://me.farog.click:1313/projects/ansible/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://yourdomain.com:1313/projects/ansible/</guid>
+      <guid>https://me.farog.click:1313/projects/ansible/</guid>
       <description>A modern and scalable solution to automate switch and router configurations using Ansible.</description>
     </item>
     <item>
       <title>DDoS Detection using Machine Learning Methods</title>
-      <link>http://yourdomain.com:1313/projects/ddos/</link>
+      <link>https://me.farog.click:1313/projects/ddos/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://yourdomain.com:1313/projects/ddos/</guid>
+      <guid>https://me.farog.click:1313/projects/ddos/</guid>
       <description>DDoS Detection system with help of ML</description>
     </item>
     <item>
       <title>Open-Source Security Platform For Threat Detection</title>
-      <link>http://yourdomain.com:1313/projects/wazuhseim/</link>
+      <link>https://me.farog.click:1313/projects/wazuhseim/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://yourdomain.com:1313/projects/wazuhseim/</guid>
+      <guid>https://me.farog.click:1313/projects/wazuhseim/</guid>
       <description>Intrusion Detection, Log Analysis, File Integrity Monitoring, Vulnerability Detection, and SIEM Capabilities</description>
     </item>
   </channel>
