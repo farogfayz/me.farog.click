@@ -3,6 +3,7 @@ baseURL: "https://me.farog.click/"
 languageCode: en-us
 title: Farog Basher
 theme: PaperMod
+googleAnalytics: "G-SCHV0RTLFW"
 
 menu:
   main:
@@ -86,3 +87,9 @@ markup:
   goldmark:
     renderer:
       unsafe: true
+
+
+#to build the site on production mode we should use this command
+#hugo --baseURL "https://me.farog.click/"
+
+
