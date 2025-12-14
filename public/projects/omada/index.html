@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en" dir="auto">
 
-<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script><meta charset="utf-8">
+<head><meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta name="robots" content="index, follow">
@@ -9,16 +9,16 @@
 <meta name="keywords" content="Linux, Wifi, FreeRADIUS, MariaDB, Omada">
 <meta name="description" content="design and implementation of a secure enterprise Wi-Fi authentication system">
 <meta name="author" content="">
-<link rel="canonical" href="http://localhost:1313/projects/omada/">
+<link rel="canonical" href="https://me.farog.click/projects/omada/">
 <link crossorigin="anonymous" href="/assets/css/stylesheet.184e398238821135ba5a934bb86b8016499604fef4e93fb5aa74f409ee440910.css" integrity="sha256-GE45gjiCETW6WpNLuGuAFkmWBP706T&#43;1qnT0Ce5ECRA=" rel="preload stylesheet" as="style">
-<link rel="icon" href="http://localhost:1313/favicon.ico">
-<link rel="icon" type="image/png" sizes="16x16" href="http://localhost:1313/favicon-16x16.png">
-<link rel="icon" type="image/png" sizes="32x32" href="http://localhost:1313/favicon-32x32.png">
-<link rel="apple-touch-icon" href="http://localhost:1313/apple-touch-icon.png">
-<link rel="mask-icon" href="http://localhost:1313/safari-pinned-tab.svg">
+<link rel="icon" href="https://me.farog.click/favicon.ico">
+<link rel="icon" type="image/png" sizes="16x16" href="https://me.farog.click/favicon-16x16.png">
+<link rel="icon" type="image/png" sizes="32x32" href="https://me.farog.click/favicon-32x32.png">
+<link rel="apple-touch-icon" href="https://me.farog.click/apple-touch-icon.png">
+<link rel="mask-icon" href="https://me.farog.click/safari-pinned-tab.svg">
 <meta name="theme-color" content="#2e2e33">
 <meta name="msapplication-TileColor" content="#2e2e33">
-<link rel="alternate" hreflang="en" href="http://localhost:1313/projects/omada/">
+<link rel="alternate" hreflang="en" href="https://me.farog.click/projects/omada/">
 <noscript>
     <style>
         #theme-toggle,
@@ -69,7 +69,7 @@
           gtag('js', new Date());
           gtag('config', 'G-SCHV0RTLFW');
         }
-      </script><meta property="og:url" content="http://localhost:1313/projects/omada/">
+      </script><meta property="og:url" content="https://me.farog.click/projects/omada/">
   <meta property="og:site_name" content="Farog Basher">
   <meta property="og:title" content="Secure Wi-Fi Authentication Using Omada, FreeRADIUS, and MySQL">
   <meta property="og:description" content="design and implementation of a secure enterprise Wi-Fi authentication system">
@@ -81,9 +81,9 @@
     <meta property="article:tag" content="FreeRADIUS">
     <meta property="article:tag" content="MariaDB">
     <meta property="article:tag" content="Omada">
-    <meta property="og:image" content="http://localhost:1313/projects/Omada.png">
+    <meta property="og:image" content="https://me.farog.click/projects/Omada.png">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:image" content="http://localhost:1313/projects/Omada.png">
+<meta name="twitter:image" content="https://me.farog.click/projects/Omada.png">
 <meta name="twitter:title" content="Secure Wi-Fi Authentication Using Omada, FreeRADIUS, and MySQL">
 <meta name="twitter:description" content="design and implementation of a secure enterprise Wi-Fi authentication system">
 
@@ -97,13 +97,13 @@
       "@type": "ListItem",
       "position":  1 ,
       "name": "Projects",
-      "item": "http://localhost:1313/projects/"
+      "item": "https://me.farog.click/projects/"
     }, 
     {
       "@type": "ListItem",
       "position":  2 ,
       "name": "Secure Wi-Fi Authentication Using Omada, FreeRADIUS, and MySQL",
-      "item": "http://localhost:1313/projects/omada/"
+      "item": "https://me.farog.click/projects/omada/"
     }
   ]
 }
@@ -121,18 +121,18 @@
   "articleBody": "Project Overview This project demonstrates the design and implementation of a secure enterprise Wi-Fi authentication system using TP-Link Omada, FreeRADIUS, and a MySQL database.\nThe goal was to provide centralized user authentication, improve network security, and enable scalable user management for an academic or enterprise environment.\nThe system uses EAP (802.1X) authentication, allowing users to securely access the wireless network using individual credentials stored in a backend SQL database.\nArchitecture \u0026 Workflow Omada Access Points Provide wireless connectivity to users Forward authentication requests using EAP over RADIUS Do not store user credentials locally, improving security Omada Controller Centralized management of access points and SSIDs Configured an Enterprise WPA2/WPA3 SSID using 802.1X Integrated with an external RADIUS server (FreeRADIUS) Ensures consistent policy enforcement across all APs FreeRADIUS Server Acts as the authentication and authorization server Handles EAP authentication (EAP-PEAP / MS-CHAPv2) Validates user credentials against a MySQL database Sends Access-Accept / Access-Reject responses to Omada Logs authentication and accounting events MySQL Database Stores user credentials and policies (radcheck, radreply) Stores session and accounting data (radacct) Enables easy user provisioning, revocation, and auditing Supports future integration with external systems (LDAP, portals, ERP) Authentication Flow A user connects to the secure Wi-Fi SSID The Omada Access Point forwards the authentication request to FreeRADIUS FreeRADIUS performs EAP authentication User credentials are verified against the MySQL database If authentication is successful:\nAccess is granted Accounting data is logged If authentication fails:\nAccess is denied Event is logged for auditing and troubleshooting Key Features Implemented ✔ Enterprise-grade Wi-Fi security (802.1X / EAP) ✔ Centralized authentication using FreeRADIUS ✔ SQL-based user management ✔ Per-user access control ✔ Authentication and accounting logging ✔ Scalable design suitable for campuses or enterprises ✔ Vendor-agnostic RADIUS backend Technologies Used TP-Link Omada (Controller \u0026 Access Points) FreeRADIUS MySQL / MariaDB EAP-PEAP / MS-CHAPv2 Linux Server (Debian / Ubuntu) Use Case This solution is suitable for:\nUniversities and campuses Enterprises with multiple departments Secure staff and student Wi-Fi networks Environments requiring auditing and accountability What This Project Demonstrates Strong understanding of 802.1X and RADIUS authentication Practical experience integrating network infrastructure with backend services Ability to design secure, scalable, real-world network solutions Hands-on knowledge of FreeRADIUS internals and SQL integration ",
   "wordCount" : "366",
   "inLanguage": "en",
-  "image":"http://localhost:1313/projects/Omada.png","datePublished": "0001-01-01T00:00:00Z",
+  "image":"https://me.farog.click/projects/Omada.png","datePublished": "0001-01-01T00:00:00Z",
   "dateModified": "0001-01-01T00:00:00Z",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "http://localhost:1313/projects/omada/"
+    "@id": "https://me.farog.click/projects/omada/"
   },
   "publisher": {
     "@type": "Organization",
     "name": "Farog Basher",
     "logo": {
       "@type": "ImageObject",
-      "url": "http://localhost:1313/favicon.ico"
+      "url": "https://me.farog.click/favicon.ico"
     }
   }
 }
@@ -154,7 +154,7 @@
 <header class="header sticky-header">
     <nav class="nav">
         <div class="logo">
-            <a href="http://localhost:1313/" accesskey="h" title="Farog Basher (Alt + H)">Farog Basher</a>
+            <a href="https://me.farog.click/" accesskey="h" title="Farog Basher (Alt + H)">Farog Basher</a>
             <span class="logo-switches">
                 <button id="theme-toggle" accesskey="t" title="(Alt + T)">
                     <svg id="moon" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"
@@ -182,17 +182,17 @@
         </div>
         <ul id="menu">
             <li>
-                <a href="http://localhost:1313/" title="Home 🏠">
+                <a href="https://me.farog.click/" title="Home 🏠">
                     <span>Home 🏠</span>
                 </a>
             </li>
             <li>
-                <a href="http://localhost:1313/projects" title="Projects 👨🏻‍💻">
+                <a href="https://me.farog.click/projects" title="Projects 👨🏻‍💻">
                     <span>Projects 👨🏻‍💻</span>
                 </a>
             </li>
             <li>
-                <a href="http://localhost:1313/search" title="Search 🔍 (Alt &#43; /)" accesskey=/>
+                <a href="https://me.farog.click/search" title="Search 🔍 (Alt &#43; /)" accesskey=/>
                     <span>Search 🔍</span>
                 </a>
             </li>
@@ -208,7 +208,7 @@
 
 <article class="post-single">
   <header class="post-header">
-    <div class="breadcrumbs"><a href="http://localhost:1313/">Home</a>&nbsp;»&nbsp;<a href="http://localhost:1313/projects/">Projects</a></div>
+    <div class="breadcrumbs"><a href="https://me.farog.click/">Home</a>&nbsp;»&nbsp;<a href="https://me.farog.click/projects/">Projects</a></div>
     <h1 class="post-title entry-hint-parent">
       Secure Wi-Fi Authentication Using Omada, FreeRADIUS, and MySQL
     </h1>
@@ -222,7 +222,7 @@
 </div>
   </header> 
 <figure class="entry-cover">
-        <img loading="eager" src="http://localhost:1313/projects/Omada.png" alt="">
+        <img loading="eager" src="https://me.farog.click/projects/Omada.png" alt="">
         
 </figure><div class="toc">
     <details >
@@ -356,18 +356,18 @@
 
   <footer class="post-footer">
     <ul class="post-tags">
-      <li><a href="http://localhost:1313/tags/linux/">Linux</a></li>
-      <li><a href="http://localhost:1313/tags/wifi/">Wifi</a></li>
-      <li><a href="http://localhost:1313/tags/freeradius/">FreeRADIUS</a></li>
-      <li><a href="http://localhost:1313/tags/mariadb/">MariaDB</a></li>
-      <li><a href="http://localhost:1313/tags/omada/">Omada</a></li>
+      <li><a href="https://me.farog.click/tags/linux/">Linux</a></li>
+      <li><a href="https://me.farog.click/tags/wifi/">Wifi</a></li>
+      <li><a href="https://me.farog.click/tags/freeradius/">FreeRADIUS</a></li>
+      <li><a href="https://me.farog.click/tags/mariadb/">MariaDB</a></li>
+      <li><a href="https://me.farog.click/tags/omada/">Omada</a></li>
     </ul>
   </footer>
 </article>
     </main>
     
 <footer class="footer">
-    <span>&copy; 2025 <a href="http://localhost:1313/">Farog Basher</a></span>
+    <span>&copy; 2025 <a href="https://me.farog.click/">Farog Basher</a></span>
 </footer>
 <a href="#top" aria-label="go to top" title="Go to Top (Alt + G)" class="top-link" id="top-link" accesskey="g">
     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12 6" fill="currentColor">

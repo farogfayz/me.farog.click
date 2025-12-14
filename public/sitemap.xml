@@ -2,60 +2,60 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/projects/omada/</loc>
+    <loc>https://me.farog.click/projects/omada/</loc>
   </url><url>
-    <loc>http://localhost:1313/projects/ansible/</loc>
+    <loc>https://me.farog.click/projects/ansible/</loc>
   </url><url>
-    <loc>http://localhost:1313/projects/ddos/</loc>
+    <loc>https://me.farog.click/projects/ddos/</loc>
   </url><url>
-    <loc>http://localhost:1313/projects/wazuhseim/</loc>
+    <loc>https://me.farog.click/projects/wazuhseim/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/ai/</loc>
+    <loc>https://me.farog.click/tags/ai/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/ansible/</loc>
+    <loc>https://me.farog.click/tags/ansible/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/aws/</loc>
+    <loc>https://me.farog.click/tags/aws/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/aws-segamaker/</loc>
+    <loc>https://me.farog.click/tags/aws-segamaker/</loc>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://me.farog.click/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/cisco/</loc>
+    <loc>https://me.farog.click/tags/cisco/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/devops/</loc>
+    <loc>https://me.farog.click/tags/devops/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/docker/</loc>
+    <loc>https://me.farog.click/tags/docker/</loc>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://me.farog.click/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/freeradius/</loc>
+    <loc>https://me.farog.click/tags/freeradius/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/infrastructure-as-code/</loc>
+    <loc>https://me.farog.click/tags/infrastructure-as-code/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/juypterlab/</loc>
+    <loc>https://me.farog.click/tags/juypterlab/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/linux/</loc>
+    <loc>https://me.farog.click/tags/linux/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/linux-ubuntu/</loc>
+    <loc>https://me.farog.click/tags/linux-ubuntu/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/logging/</loc>
+    <loc>https://me.farog.click/tags/logging/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/mariadb/</loc>
+    <loc>https://me.farog.click/tags/mariadb/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/network-automation/</loc>
+    <loc>https://me.farog.click/tags/network-automation/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/omada/</loc>
+    <loc>https://me.farog.click/tags/omada/</loc>
   </url><url>
-    <loc>http://localhost:1313/projects/</loc>
+    <loc>https://me.farog.click/projects/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/python/</loc>
+    <loc>https://me.farog.click/tags/python/</loc>
   </url><url>
-    <loc>http://localhost:1313/search/</loc>
+    <loc>https://me.farog.click/search/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://me.farog.click/tags/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/wazuh/</loc>
+    <loc>https://me.farog.click/tags/wazuh/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/wifi/</loc>
+    <loc>https://me.farog.click/tags/wifi/</loc>
   </url>
 </urlset>
