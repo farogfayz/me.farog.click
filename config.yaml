@@ -26,7 +26,7 @@ menu:
       weight: 60
 
 params:
-  
+
   # theme
   showToc: true
   TocOpen: false
@@ -48,7 +48,6 @@ params:
     imageWidth: 220
     imageHeight: 220
 
-
   # List View
   hideDescriptionInList: false
 
@@ -65,6 +64,8 @@ params:
       url: "http://www.linkedin.com/in/farogbasher"
     - name: "github"
       url: "http://github.com/farogfayz"
+    - name: buymeacoffee
+      url: https://www.buymeacoffee.com/farogbasher
 
   # text search
   fuseOpts:
@@ -88,7 +89,6 @@ markup:
   goldmark:
     renderer:
       unsafe: true
-
 
 #to build the site on production mode we should use this command
 #hugo --baseURL "https://me.farog.click/"
