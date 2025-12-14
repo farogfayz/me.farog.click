@@ -4,6 +4,7 @@ languageCode: en-us
 title: Farog Basher
 theme: PaperMod
 googleAnalytics: "G-SCHV0RTLFW"
+enableRobotsTXT: true
 
 menu:
   main:
@@ -40,7 +41,7 @@ params:
   profileMode:
     enabled: true
     title: "Farog Basher"
-    subtitle: Hi 👋 I'm Farog, As a dedicated Networking and Systems Administrator, I excel at leveraging technology to solve complex problems. With over 2 years of hands-on experience as Networking and System Admin, I specialize in designing, implementing, and managing robust IT infrastructures, with a strong focus on networking, operating systems, and ensuring security and reliability.
+    subtitle: Hi 👋 I'm Farog, As a dedicated Networking and Systems Administrator, I excel at leveraging technology to solve complex problems. With over 3 years of hands-on experience as Networking and System Admin, I specialize in designing, implementing, and managing robust IT infrastructures, with a strong focus on networking, operating systems, and ensuring security and reliability.
 
  
     imageUrl: "/home/me.jpg"

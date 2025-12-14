@@ -4,7 +4,7 @@ description: "A modern and scalable solution to automate switch and router confi
 draft: false
 tags: ["Ansible", "Network Automation", "DevOps", "Cisco", "Linux", "Infrastructure as Code"]
 showToc: true
-weight: 208
+weight: 203
 cover:
   image: "/projects/ansible.png"
 ---
