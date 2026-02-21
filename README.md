@@ -143,5 +143,3 @@ This project is licensed under the [MIT License](LICENSE).
 
 Thank you for visiting!
 feel free to contact me for any issues. 
-
-
